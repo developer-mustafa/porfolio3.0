@@ -3,17 +3,17 @@ export const experiences = [
     id: 1,
     title: 'Full stack Software Engineer',
     company: "C360soft.Ai india",
-    duration: "(Jan 2022 - Present)"
+    duration: "(Jan 2019 - Present)"
   },
   {
     id: 2,
-    title: "Full Stack Developer",
+    title: "web  Developer",
     company: "Fiverr (freelance)",
-    duration: "(Jun 2017 - Jan 2019)"
+    duration: "(Jun 2016 - feb 2018)"
   },
   {
     id: 3,
-    title: "Phitron Course (Computer Science Fundamentals)",
+    title: "Phitron Course (CSE)",
     company: "Programming Hero platform",
     duration: "(1 to 1.5 Years)",
 
